@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PiN</string>
+
+    <string name="image_logo">logo</string>
+    <string name="notenpunkte">Notenpunkte:</string>
+    <string name="eingabe">eingabe</string>
+    <string name="lk">LK</string>
+    <string name="add">hinzufügen</string>
+
+    <string name="write_caption">eingabe</string>
+</resources>
